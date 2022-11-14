@@ -1,3 +1,3 @@
-module github.com/importDemo
+module github.com/54cheng/importDemo
 
 go 1.18
